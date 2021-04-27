@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 flask = "*"
 numpy = "*"
+qiskit = "*"
+gunicorn = "*"
 
 [dev-packages]
 
