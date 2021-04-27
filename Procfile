@@ -1,1 +1,1 @@
-web: gunicorn lomittaja:app
+web: gunicorn lomitus:app
