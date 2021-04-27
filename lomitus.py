@@ -26,7 +26,6 @@ def index():
     qc.h(0)
     # Apply a CNOT:
     qc.cx(0,1)
-    print("lomitellaan")
     return main_page
 
 if __name__ == '__main__':
