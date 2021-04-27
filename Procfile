@@ -1,1 +1,1 @@
-web: gunicorn QuantumAleaIactaEst:app
+web: gunicorn lomittaja:app
